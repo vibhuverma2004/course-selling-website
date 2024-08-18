@@ -1,13 +1,35 @@
-Basic course selling react app
+# Basic Course Selling React App
 
-Install necessary packages: npm install
+This is a basic React application for selling courses. The application includes both frontend and backend components.
 
-npm install express
+## Table of Contents
 
-npm install jsonwebtoken
+- [Getting Started](#getting-started)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Running the Application](#running-the-application)
+  - [Frontend](#frontend)
+  - [Backend](#backend)
+- [Technologies Used](#technologies-used)
+- [File Structure](#file-structure)
+- [License](#license)
 
-npm install recoil
+## Getting Started
 
-For frontend: npm run dev
+Follow these instructions to set up the project on your local machine.
 
-For the backend: node backend.js
+## Prerequisites
+
+Ensure you have the following software installed:
+
+- Node.js (v12.x or higher)
+- npm (v6.x or higher)
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/course-selling-app.git
+   cd course-selling-app
+
