@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "name": "JavaScript Basics",
+    "price": "Free",
+    "description": "Learn the basics of JavaScript.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"
+  },
+  {
+    "id": 2,
+    "name": "React for Beginners",
+    "price": "20 USD",
+    "description": "An introduction to React.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/30/React_Logo_SVG.svg"
+  },
+ 
+  {
+    "id": 3,
+    "name": "DSA",
+    "price": "75",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/Private_key_signing.svg",
+    "description": "complete DSA course using c++"
+  }
+]
